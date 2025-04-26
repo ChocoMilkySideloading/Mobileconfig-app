@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>FullScreen</key>
+            <true/>
+            <key>Icon</key>
+            <data>
+            <!-- Optional base64 app icon -->
+            </data>
+            <key>IsRemovable</key>
+            <true/>
+            <key>Label</key>
+            <string>Chocomilky</string>
+            <key>PayloadDescription</key>
+            <string>Adds a web clip to the home screen</string>
+            <key>PayloadDisplayName</key>
+            <string>Web Clip</string>
+            <key>PayloadIdentifier</key>
+            <string>com.chocomilky.webclip</string>
+            <key>PayloadOrganization</key>
+            <string>Chocomilky Org</string>
+            <key>PayloadType</key>
+            <string>com.apple.webClip.managed</string>
+            <key>PayloadUUID</key>
+            <string>4F385E1C-9B15-4A4D-977D-0123456789AB</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>Precomposed</key>
+            <true/>
+            <key>URL</key>
+            <string>https://beacons.ai/chocomilky</string>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>Chocomilky App</string>
+    <key>PayloadIdentifier</key>
+    <string>com.chocomilky.profile</string>
+    <key>PayloadOrganization</key>
+    <string>Chocomilky Org</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
